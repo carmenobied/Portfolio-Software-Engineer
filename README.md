@@ -21,7 +21,7 @@ See screenshot below which demonstrates the application:
 ![Portfolio Screenshot](images/CO_portfolio.png)
 
 ## Credits
-Creative CV HTML template copyright (c) [2020] [Creative CV Tempate | TemplateFlip]
+Creative CV HTML template copyright (c) [2020] [Creative CV Template | TemplateFlip]
 
 ## License
 MIT License
