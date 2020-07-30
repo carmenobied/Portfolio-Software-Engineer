@@ -1,4 +1,4 @@
-# PortfolioL Full-Stack Web Development 
+# Portfolio Full-Stack Software Engineering
 ![Project license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 Personal portfolio page to highlight experience in full-strack software engineering and increase online presence. 
