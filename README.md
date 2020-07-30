@@ -1,8 +1,19 @@
 # PortfolioL Full-Stack Web Development 
+![Project license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
-Personal portfolio page to highlight experience in full-strack development and increase online presence. 
+Personal portfolio page to highlight experience in full-strack software engineering and increase online presence. 
 
-Explore my portfolio page here: https://carmenobied.github.io/portfolio/
+Explore my portfolio page here: https://carmenobied.github.io/Portfolio-Website/
+
+# Table of Contents
+  * [User Story](#User-Story)
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [Credits](#Credits)
+  * [Contributing](#Contributing)
+  * [License](#License)
+  * [Tests](#License)
+  * [Questions](#Questions)
 
 ## Installation
 ```
@@ -23,13 +34,16 @@ See screenshot below which demonstrates the application:
 ## Credits
 Creative CV HTML template copyright (c) [2020] [Creative CV Template | TemplateFlip]
 
-## License
-MIT License
+## Contributing
+Pull requests are welcome. Please use the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md) and for major changes, please open an issue beforehand to discuss the changes.
 
-Copyright (c) [2020] [Carmen Obied]
+## License 
+[MIT](https://github.com/carmenobied/Portfolio-Website/blob/master/LICENSE) | Copyright © 2020 Carmen Obied
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+## Tests 
+There are currently no tests for this project.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## Questions  
+Have questions? Contact me at:
+##### Email: carmen.obied@gmail.com
+##### Github:  **carmenobied** [carmenobied](https://github.com/carmenobied)

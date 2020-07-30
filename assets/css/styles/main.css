@@ -419,8 +419,12 @@
   border-radius: 3px;
   background: #FFF;
   cursor: default;
-  -webkit-box-shadow: inset 0 0 1px #FFF, inset 0 1px 7px #EBEBEB, 0 3px 6px -3px #BBB;
-          box-shadow: inset 0 0 1px #FFF, inset 0 1px 7px #EBEBEB, 0 3px 6px -3px #BBB;
+  -webkit-box-shadow: inset 0 0 1px #FFF,
+ inset 0 1px 7px #EBEBEB,
+ 0 3px 6px -3px #BBB;
+          box-shadow: inset 0 0 1px #FFF,
+ inset 0 1px 7px #EBEBEB,
+ 0 3px 6px -3px #BBB;
   -webkit-transition: 300ms ease 0s;
   -moz-transition: 300ms ease 0s;
   -ms-transition: 300ms ease 0s;
@@ -6891,10 +6895,13 @@ Created using IcoMoon - icomoon.io
 
 .gallery .cc-porfolio-image figure figcaption {
   position: absolute;
-  color: #fff;
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
-}
+  bottom: 0;
+  background: rgb(0, 0, 0); 
+  background: rgba(0, 0, 0, 0.5); 
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+  }
 
 .gallery .cc-porfolio-image figure figcaption,
 .gallery .cc-porfolio-image figure figcaption > a {
@@ -6918,25 +6925,7 @@ Created using IcoMoon - icomoon.io
   margin: 0;
 }
 
-.gallery figure.cc-effect figcaption::before,
-.gallery figure.cc-effect figcaption::after {
-  position: absolute;
-  content: '';
-  opacity: 0;
-}
-
-.gallery figure.cc-effect figcaption::before {
-  top: 10px;
-  right: 10px;
-  bottom: 10px;
-  left: 10px;
-  -webkit-transform: scale(0, 0);
-  transform: scale(0, 0);
-  -webkit-transform-origin: 0 0;
-  transform-origin: 0 0;
-}
-
-.gallery figure.cc-effect figcaption::after {
+.gallery figure figcaption:hover  {
   top: 10px;
   right: 10px;
   bottom: 10px;
@@ -6986,49 +6975,34 @@ Created using IcoMoon - icomoon.io
   transform: scale(1.06, 1.06);
 }
 
-.gallery figure.cc-effect img,
-.gallery figure.cc-effect figcaption::before,
-.gallery figure.cc-effect figcaption::after,
-.gallery figure.cc-effect p {
-  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
-  transition: opacity 0.35s, -webkit-transform 0.35s;
-  transition: opacity 0.35s, transform 0.35s;
-  transition: opacity 0.35s, transform 0.35s, -webkit-transform 0.35s;
-}
-
-.gallery figure.cc-effect:hover img {
+.gallery figure.cc-effect img {
   opacity: 1;
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
 }
 
-.gallery figure.cc-effect:hover figcaption::before,
-.gallery figure.cc-effect:hover figcaption::after {
+.gallery figure.cc-effect figcaption {
   opacity: 1;
   -webkit-transform: scale(1);
   transform: scale(1);
 }
 
-.gallery figure.cc-effect:hover figcaption:before {
-  background: rgba(27, 23, 23, 0.5);
-}
-
-.gallery figure.cc-effect:hover .h4,
-.gallery figure.cc-effect:hover p,
-.gallery figure.cc-effect:hover button {
+.gallery figure.cc-effect .h4,
+.gallery figure.cc-effect p,
+.gallery figure.cc-effect button {
   opacity: 1;
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
   color: #fff;
 }
 
-.gallery figure.cc-effect:hover figcaption::after,
-.gallery figure.cc-effect:hover .h4,
-.gallery figure.cc-effect:hover p,
-.gallery figure.cc-effect:hover img {
+.gallery figure.cc-effect figcaption,
+.gallery figure.cc-effect .h4,
+.gallery figure.cc-effect p,
+.gallery figure.cc-effect img {
   -webkit-transition-delay: 0.15s;
   transition-delay: 0.15s;
-}
+} */
 
 /* Header */
 /* Navbar style*/
