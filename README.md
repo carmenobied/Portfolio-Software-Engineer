@@ -1,7 +1,7 @@
 # Portfolio Full-Stack Software Engineering
 ![Project license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
-Personal portfolio page to highlight experience in full-strack software engineering, coding projects, resume, and more. 
+Personal portfolio page to highlight experience in full-strack software engineering, projects, resume, and more. 
 
 Explore my portfolio page and resume here: https://carmenobied.github.io/Portfolio-Website/
 
