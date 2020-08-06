@@ -32,7 +32,7 @@ See screenshot below which demonstrates the application:
 ![Portfolio Screenshot](assets/images/CO_portfolio.png)
 
 Access Resume file:
-![Resume File](assets/images/Software_Engineer_Resume)
+![Resume File](assets/images/SoftwareEngineerResume_CO.png)
 
 ## Credits
 Creative CV HTML template copyright (c) [2020] [Creative CV Template | TemplateFlip]
