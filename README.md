@@ -3,7 +3,7 @@
 
 Personal portfolio page to highlight experience in full-strack software engineering, projects, resume, and more. 
 
-Explore my portfolio page and resume here: https://carmenobied.github.io/Portfolio-Website/
+Explore my portfolio page and resume here: https://carmenobied.github.io/Portfolio-Software-Engineer/
 
 # Table of Contents
   * [User Story](#User-Story)
@@ -28,7 +28,7 @@ iv. Open and explore the page.
 Creative CV HTML template built with Bootstrap 4 and Now UI Kit.
 ```
 
-View Portfolio and Resume [here](https://carmenobied.github.io/Portfolio-Website/). 
+View Portfolio and Resume [here](https://carmenobied.github.io/Portfolio-Software-Engineer/). 
 
 See screenshot below which demonstrates the application:
 ![Portfolio Screenshot](assets/images/CO_portfolio.png)
