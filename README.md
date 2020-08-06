@@ -29,7 +29,10 @@ Creative CV HTML template built with Bootstrap 4 and Now UI Kit.
 ```
 
 See screenshot below which demonstrates the application:
-![Portfolio Screenshot](images/CO_portfolio.png)
+![Portfolio Screenshot](assets/images/CO_portfolio.png)
+
+Access Resume file:
+![Resume File](assets/images/Software_Engineer_Resume)
 
 ## Credits
 Creative CV HTML template copyright (c) [2020] [Creative CV Template | TemplateFlip]
