@@ -1,9 +1,9 @@
 # Portfolio Full-Stack Software Engineering
 ![Project license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
-Personal portfolio page to highlight experience in full-strack software engineering and increase online presence. 
+Personal portfolio page to highlight experience in full-strack software engineering, coding projects, resume, and more. 
 
-Explore my portfolio page here: https://carmenobied.github.io/Portfolio-Website/
+Explore my portfolio page and resume here: https://carmenobied.github.io/Portfolio-Website/
 
 # Table of Contents
   * [User Story](#User-Story)
@@ -28,11 +28,10 @@ iv. Open and explore the page.
 Creative CV HTML template built with Bootstrap 4 and Now UI Kit.
 ```
 
+View Portfolio and Resume [here](https://carmenobied.github.io/Portfolio-Website/). 
+
 See screenshot below which demonstrates the application:
 ![Portfolio Screenshot](assets/images/CO_portfolio.png)
-
-Access Resume file:
-![Resume File](assets/images/SoftwareEngineerResume_CO.png)
 
 ## Credits
 Creative CV HTML template copyright (c) [2020] [Creative CV Template | TemplateFlip]
